@@ -2,7 +2,7 @@
 int main()
 {
     int a=20,b=10,c;
-     c=a+b;
+     c=a*b;
      printf("%d",c);
      return 0;
 }
